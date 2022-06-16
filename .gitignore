@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+practicandoReact/webpack/node_modules
+practicandoReact/webpack/package-lock.json
+practicandoReact/webpack/package.json
+
+practicandoReact/practicaUno/node_modules
+practicandoReact/practicaUno/package-lock.json
+practicandoReact/practicaUno/package.json
+
+practicandoReact/practicaDos/node_modules
+practicandoReact/practicaDos/package-lock.json
+practicandoReact/practicaDos/package.json
+
+practicandoReact/pokemonReact/node_modules
+practicandoReact/pokemonReact/package-lock.json
+practicandoReact/pokemonReact/package.json
+
+practicandoReact/claseSiete/node_modules
+practicandoReact/claseSiete/package-lock.json
+
+practicandoReact/claseOcho/node_modules
+practicandoReact/claseOcho/package-lock.json
+practicandoReact/claseOcho/package.json
+
+practicandoReact/claseNueve/node_modules
+practicandoReact/claseNueve/package-lock.json
+practicandoReact/claseNueve/package.json
+
+practicandoReact/claseDiez/node_modules
+practicandoReact/claseDiez/package-lock.json
+practicandoReact/claseDiez/package.json
+
+proyectosReact/examen/node_modules
+proyectosReact/examen/package-lock.json
+proyectosReact/examen/package.json

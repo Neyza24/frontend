@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "producto": {
+            "image": "https://luisgarciamillan.es/wp-content/uploads/2020/04/scott-kelly-resistencia-un-a%C3%B1o-en-el-espacio.jpg",
+            "nombre": "Resistencia: Un año en el espacio",
+            "descripcion": "Scott Kelly es el hombre que más tiempo ha pasado en el espacio, 340 días, y nos lo cuenta en primera persona."
+        },
+        "stock": 5
+    },
+    {
+        "id": "2",
+        "producto": {
+            "image": "https://luisgarciamillan.es/wp-content/uploads/2020/04/El-Bos%C3%B3n-De-Higgs.jpg",
+            "nombre": "El bosón de Higgs",
+            "descripcion": "Este divertido libro te ayudará a entender lo que nos rodea y a saber que el bosón de Higgs no te va a hacer la cama!"
+        },
+        "stock": 2
+    },
+    {
+        "id": "3",
+        "producto": {
+            "image": "https://luisgarciamillan.es/wp-content/uploads/2020/04/libro-sapiens-de-animales-a-dioses.jpg",
+            "nombre": "Sapiens. De animales a dioses",
+            "descripcion": "Un apasionante viaje por la historia de la humanidad con la que vas a comprender a la perfección de dónde venimos."
+        },
+        "stock": 0
+    },
+    {
+        "id": "4",
+        "producto": {
+            "image": "https://libroveolibroleo.com/wp-content/uploads/2020/04/1984-393x600.jpg",
+            "nombre": "Geroge Orwell 1984",
+            "descripcion": "Una historia ficticia que encierra un argumento realista e invita a la reflexión de lo que somos actualmente como sociedad."
+        },
+        "stock": 3
+    },
+    {
+        "id": "5",
+        "producto": {
+            "image": "https://libroveolibroleo.com/wp-content/uploads/2020/04/El-nombre-del-viento-395x600.jpg",
+            "nombre": "El nombre del viento",
+            "descripcion": "Muchas historias y conjeturas giran alrededor de un personaje legendario que todos daban por muerto, aunque es llamado músico."
+        },
+        "stock": 6
+    },
+    {
+        "id": "6",
+        "producto": {
+            "image": "https://libroveolibroleo.com/wp-content/uploads/2020/04/La-Torre-Tesla.jpg",
+            "nombre": "La Torre Tesla",
+            "descripcion": "Halcón, es el personaje principal y encargado de una investigación emocionante que se volverá adictiva de principio a fin."
+        },
+        "stock": 2
+    }
+]
+
