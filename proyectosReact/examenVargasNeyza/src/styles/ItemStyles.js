@@ -38,7 +38,7 @@ export const Span = styled.span`
 ` ;
 
 export const Button = styled.button`
-    background: #DBDFFD;
+    background: #0a9dff;
     padding: 12px 96px;
     border-radius: 4px;
     margin-top: 12px;
@@ -46,7 +46,7 @@ export const Button = styled.button`
     border-style: none;
     transition: all 0.5s ease-out;
     &:hover{
-        background: #09F;
+        background: #006eec;
         box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
         border-style: none;
         cursor: pointer;

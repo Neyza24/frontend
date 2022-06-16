@@ -11,15 +11,12 @@ export default function Item({ addToCart, product }) {
   const { producto } = product;
   const [stock, setStock] = useState(product.stock);
 
-
-
   const buyProduct = (cant) => {
     if (cant > 0) {
       setStock((prevState) => prevState - 1);
       addToCart();
     }
   }
-
 
   return (
     <Card >
