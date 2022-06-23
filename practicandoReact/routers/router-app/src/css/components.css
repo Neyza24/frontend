@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--paragraph);
+}
+
+:root {
+    --green: #e3ffb6;
+    --gris-2: #f6f6f4;
+    --gris-oscuro: #241c15;
+    --dark: #333333;
+    --paragraph: #514e56;
+    --green: #2bd480;
+    --rose: #fbeeca;
+}
+
+.active {
+    color: #0084ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.noActive{
+    color: var(--gris-2);
+    text-decoration: none;
+}
+
+.navHeader {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(var(--gris-oscuro), var(--dark));
+    width: 100%;
+}
+
+.navStyle {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 100px;
+}
+
+.ulStyle {
+    display: flex;
+    justify-content: flex-end;
+    gap: 48px;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+.logo{
+    color: var(--gris-2);
+}
+
+
+.sectionContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: var(--rose)
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding-left: 220px;
+    gap: 32px;
+}
+
+.btnRef {
+    display: inline-block;
+    width: 124px;
+    padding: 12px 0;
+    border-radius: 4px;
+    background-color: #0084ff;
+    border-style: none;
+    font-weight: 600;
+    color: var(--gris-2);
+}
+
+.btnRef:hover{
+    background: #006eec;
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        border-style: none;
+        cursor: pointer;
+}
+
+
+
+
+.paragraph {
+    width: 280px;
+}
+
+.liStyle {
+    list-style: none;
+    line-height: 32px;
+}
+
+.direction {
+    flex: row-reverse;
+}
+
+.imgAvatar {
+    width: 280px;
+    border-radius: 4%;
+}
+
+.subTittleStyle {
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 12px;
+    color: var(--gris-oscuro)
+}
+
+
+.position {
+    padding: 0 240px 0 0;
+}
+
+.footerStyle{
+    padding: 32px 0;
+    background: linear-gradient(var(--gris-oscuro), var(--dark));
+}
+
+.textFooter{
+    color: var(--gris-2);
+    text-align: center;
+}
